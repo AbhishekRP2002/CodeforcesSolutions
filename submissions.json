@@ -1,4 +1,21 @@
 {
+  "CF176750030": {
+    "contest_id": 1743,
+    "language": "GNU C++17",
+    "path": "codeforces\\1743\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Permutation Value",
+    "problem_url": "https://codeforces.com/contest/1743/problem/B",
+    "submission_id": "CF176750030",
+    "submission_url": "https://codeforces.com/contest/1743/submission/176750030",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Oct/17/2022 21:09"
+  },
   "CF176839899": {
     "contest_id": 1742,
     "language": "GNU C++17",
