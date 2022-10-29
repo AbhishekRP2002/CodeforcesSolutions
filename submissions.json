@@ -1,4 +1,23 @@
 {
+  "CF178381154": {
+    "contest_id": 1740,
+    "language": "GNU C++17",
+    "path": "codeforces\\1740\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bricks and Bags",
+    "problem_url": "https://codeforces.com/contest/1740/problem/C",
+    "submission_id": "CF178381154",
+    "submission_url": "https://codeforces.com/contest/1740/submission/178381154",
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Oct/29/2022 16:40"
+  },
   "CF178465791": {
     "contest_id": 1734,
     "language": "GNU C++17",
