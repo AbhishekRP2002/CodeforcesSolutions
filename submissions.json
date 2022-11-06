@@ -209,5 +209,37 @@
       "*800"
     ],
     "timestamp": "Oct/30/2022 08:35"
+  },
+  "CF179573647": {
+    "contest_id": 1750,
+    "language": "GNU C++17",
+    "path": "codeforces\\1750\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Indirect Sort",
+    "problem_url": "https://codeforces.com/contest/1750/problem/A",
+    "submission_id": "CF179573647",
+    "submission_url": "https://codeforces.com/contest/1750/submission/179573647",
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ],
+    "timestamp": "Nov/06/2022 20:24"
+  },
+  "CF179611058": {
+    "contest_id": 1750,
+    "language": "GNU C++17",
+    "path": "codeforces\\1750\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maximum Substring",
+    "problem_url": "https://codeforces.com/contest/1750/problem/B",
+    "submission_id": "CF179611058",
+    "submission_url": "https://codeforces.com/contest/1750/submission/179611058",
+    "tags": [
+      "brute force",
+      "greedy"
+    ],
+    "timestamp": "Nov/06/2022 21:11"
   }
 }
